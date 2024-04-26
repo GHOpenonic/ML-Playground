@@ -1,1 +1,2 @@
 basic rnn to 'emulate' the sentence patterns in Sherlock Holmes. I have two similar notebooks, one learns to construct sentences from words, while the other less successful one learns to construct words, then sentences, from characters.
+For my phys 417 class at UW
