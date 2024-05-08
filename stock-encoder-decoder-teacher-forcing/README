@@ -1,0 +1,3 @@
+Use encoder-decoder RNN with teacher-forcing to explore prediction of stocks and btc. btc data is available at https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data?resource=download
+Play with teacher-forcing etc.
+Part of my phys 417 course
